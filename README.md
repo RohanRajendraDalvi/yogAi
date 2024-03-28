@@ -7,4 +7,4 @@ npm install
 node app.js
 ```
 
-demo link : https://harshitdaga7.github.io/yogAi/dist/index.html
+demo link : https://yogai.onrender.com
